@@ -1,0 +1,38 @@
+@import './fonts';
+@import './colors';
+
+.title__primary {
+    font-size: 1.5rem;
+    font-weight: bolder;
+    color: $color--text__primary;
+}
+
+.title__secondary {
+    font-size: 1.5rem;
+    font-weight: bolder;
+    color: $color--text__secondary;
+}
+
+.subtitle__primary {
+    font-size: 1.2rem;
+    font-weight: bolder;
+    color: $color--text__primary;
+}
+
+.subtitle__secondary {
+    font-size: 1.2rem;
+    font-weight: bolder;
+    color: $color--text__secondary;
+}
+
+.text__primary {
+    font-size: 1rem;
+    font-weight: normal;
+    color: $color--text__primary;
+}
+
+.text__secondary {
+    font-size: 1rem;
+    font-weight: normal;
+    color: $color--text__secondary;
+}
